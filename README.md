@@ -30,7 +30,7 @@ generate the word embeddings saying in the paper (GloVe.....)
 7. LoadData.py: create dataloader to load text, image, and attribute data
 
 # How to run:
-First, enter "sarcacm_run.ipynb", follow the cells to download image data and image feature data, and place them into right order. There should be 24635 .npy files for image feature. Then enter "run.ipynb" for model implementation and testing. You may just ignore "Colab: Connect Google Drive" part if you're not going to use Colab, and also play with "Test" part to check if all .py work well (you may ignore this part as well). Then run "Train & Test" part.
+First, enter "sarcacm_run.ipynb", follow the cells to download image data and image feature data, and place them into right order. There should be 24635 .npy files for image feature. Then enter "run.ipynb" for model implementation and testing. You may just ignore "Colab: Connect Google Drive" part if you're not going to use Colab, and also play with "Test" part to check if all .py work well (you may ignore this part as well). Then run "BERTweet" and "Fusion model" part.
 
 # You may also use links below to download image data and image feature data:
 Image data: https://github.com/headacheboy/data-of-multimodal-sarcasm-detection
