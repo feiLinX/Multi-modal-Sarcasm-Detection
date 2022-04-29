@@ -36,3 +36,5 @@ First, enter "sarcacm_run.ipynb", follow the cells to download image data and im
 Image data: https://github.com/headacheboy/data-of-multimodal-sarcasm-detection
 
 image feature data: https://drive.google.com/drive/folders/1scn5tk8LObL4VAzE6j5KHj5ESXMvAWNH?usp=sharing
+
+Trained BERTWeet model: https://drive.google.com/file/d/1O6taOZ6plbT8FGg-5hufbkpMxZiz-2Hj/view?usp=sharing
